@@ -6,9 +6,9 @@ Global Solution 2026.2 - FIAP - Cross-Platform Application Development
 
 | Nome completo | RM |
 |---|---|
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
+| Enzo Moretto | 563655 ) |
+| Lucas Scovini | 563355 |
+| João Ivo |  |
 
 ## O que é
 
