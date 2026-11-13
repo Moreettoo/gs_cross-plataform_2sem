@@ -6,7 +6,7 @@ Global Solution 2026.2 - FIAP - Cross-Platform Application Development
 
 | Nome completo | RM |
 |---|---|
-| Enzo Moretto | 563655 ) |
+| Enzo Moretto | 563655  |
 | Lucas Scovini | 563355 |
 | João Ivo |  |
 
