@@ -8,7 +8,7 @@ Global Solution 2026.2 - FIAP - Cross-Platform Application Development
 |---|---|
 | Enzo Moretto | 563655  |
 | Lucas Scovini | 563355 |
-| João Ivo |  |
+| João Ivo |  562287 |
 
 ## O que é
 
